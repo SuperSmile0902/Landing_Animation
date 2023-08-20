@@ -18,6 +18,3 @@ In your CSS file, you need to have the following:
 - **[`@keyframes`](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp) `monitorIn`**: next, use the `keyframe` rule of `from` `to` in order to [`transform`](https://www.w3schools.com/cssref/css3_pr_transform.asp) and define [`translation`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) along Y-axis only setting the `opacity` accordingly.
 - **`@keyframes chatblips`**: for the `chatblips` keyframe, I've used the `bounce-in` [animation sample](http://angrytools.com/css/animation/) taken from [Angry Tools](http://angrytools.com) website. This uses the CSS [`scale()`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale) function to resize the element on 2D plane.
 
-#### That's it! Simple, clean and smooth! 
-
-Read [this article](https://codeburst.io/create-a-beautiful-landing-page-animation-with-css-8f4501c20c8e) I wrote to incorporate it in your project.
